@@ -18,14 +18,22 @@ rotate(.3)
   ellipse (205,90,60,70)
 rotate(-.278)
  
+ fill (255,255,255)
  ellipse (230,140,60,70)
+ fill (0,0,0)
  ellipse (185,140,8,8)
  ellipse (216,140,8,8)
+ 
+
+ fill (251,216,190)
  arc (200,215,36,15, radians (200), radians (340))
 ellipse (276,326,15,15)
 ellipse (136,326,15,15)
 ellipse (121,326,27,27)
 ellipse (292,326,27,27)
+line (204,340,200,250)
+fill (290,230,67)
+triangle (160,30,190,50,70,100)
 
 }
 
